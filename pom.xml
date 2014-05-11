@@ -3,24 +3,24 @@
 
 	<groupId>fr.hoteia.qalingo</groupId>
 	<artifactId>qalingo</artifactId>
-	<version>0.7.1-SNAPSHOT</version>
+	<version>0.8.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>qalingo</name>
 	<description>{Q} Commerce Solution Project</description>
-	<url>http://www.hoteia.com</url>
-	<inceptionYear>2012-2013</inceptionYear>
+	<url>http://www.qalingo.com</url>
+	<inceptionYear>2012-2014</inceptionYear>
 	<organization>
 		<name>Hoteia</name>
 		<url>http://www.hoteia.com</url>
 	</organization>
 	
 	<modules>
-		<module>qalingo-b2c-shared</module>
-		<module>qalingo-b2c-i18n</module>
-		<module>qalingo-b2c-engine</module>
-		<module>qalingo-b2c-web-classic-fo-bo</module>
-		<module>qalingo-b2c-web-batch</module>
-		<module>qalingo-b2c-web-remote</module>
+		<module>qalingo-shared</module>
+		<module>qalingo-i18n</module>
+		<module>qalingo-engine</module>
+		<module>qalingo-web-classic-fo-bo</module>
+		<module>qalingo-web-batch</module>
+		<module>qalingo-web-remote</module>
 	</modules>
 	
 </project>
